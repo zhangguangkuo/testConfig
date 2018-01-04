@@ -1,4 +1,5 @@
 info:
   profile: default
   from: git1 
-test: bbb
+test:
+  nihao: bbb
