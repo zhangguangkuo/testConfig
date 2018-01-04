@@ -5,4 +5,5 @@ info:
   age: 12
   
   
- test: nihao
+ test:
+    hello: nihao
